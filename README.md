@@ -24,7 +24,7 @@ información sobre los gimnasios (de la empresa) etc.
 Mediante la recopilación de datos de los clientes, se le puede brindar mejor atención al usuario, 
 así como utilizar esos datos para implementar mejoras en el sistema del gimnasio, y lograr atraer a más clientes. 
 
-#Licencia
+# Licencia
 
 MIT license
 
